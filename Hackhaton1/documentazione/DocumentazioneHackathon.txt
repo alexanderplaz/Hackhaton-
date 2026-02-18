@@ -100,9 +100,7 @@ implementazionipostgresdao
 
 Il codice completo del progetto è disponibile al seguente indirizzo:
 
-https://github.com/TUO_USERNAME/NOME_REPOSITORY
-
-(Sostituire con il link reale)
+https://github.com/alexanderplaz/Hackhaton-
 
 7.  DIAGRAMMI UML
 
